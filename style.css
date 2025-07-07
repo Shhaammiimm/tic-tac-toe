@@ -44,6 +44,9 @@ body{
     border: node;
     border-radius: 1rem;
 }
+.box:hover {
+    background-color: #73c442;
+}
 #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
